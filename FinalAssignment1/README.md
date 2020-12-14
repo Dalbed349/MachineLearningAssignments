@@ -45,3 +45,4 @@ f. solver='sag': The biggest shift in performance with the RDG model occurred wh
 		```
 		![Test_Performance.PNG](https://github.com/Dalbed349/MachineLearningAssignments/blob/main/FinalAssignment1/Test_Performance.PNG "Test_Performance.PNG")
 6. Final CSV of test performance ratings can be found in /dataIterations/[toxiccomments_submission3.csv](https://github.com/Dalbed349/MachineLearningAssignments/blob/main/FinalAssignment1/dataIterations/toxiccomments_submission3.csv "toxiccomments_submission3.csv")
+7. A comprehensive list of experimentation on feature set and RDG parameters can be seen in the spreadsheet below. [someIterationsSheet1.PNG](https://github.com/Dalbed349/MachineLearningAssignments/blob/main/FinalAssignment1/someIterationsSheet1.PNG "someIterationsSheet1.PNG")
